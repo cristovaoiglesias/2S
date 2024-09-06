@@ -1,0 +1,505 @@
+STEP 5 - distilling the first two students from ensemble
+Student2 (client) - The average width for 95%  credible intervals of round0 : 0.37623113
+Ensemble (Server) - The average width for 95%  credible intervals of round0 : 0.3717337216486833
+Student1 (client) - RMSPE(true,pred Student1) of round0 : 7.25630916145197
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round0 : 7.255958330970194
+Communication round: 1
+Student2 (client) - The average width for 95%  credible intervals of round1 : 0.8811578
+Ensemble (Server) - The average width for 95%  credible intervals of round1 : 0.8815793452425486
+Student1 (client) - RMSPE(true,pred Student1) of round1 : 2.780256513337047
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round1 : 2.7797318157975996
+Communication round: 2
+Student2 (client) - The average width for 95%  credible intervals of round2 : 1.1552315
+Ensemble (Server) - The average width for 95%  credible intervals of round2 : 1.155230119525434
+Student1 (client) - RMSPE(true,pred Student1) of round2 : 2.2983835150372816
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round2 : 2.2771792066005463
+Communication round: 3
+Student2 (client) - The average width for 95%  credible intervals of round3 : 1.0983751
+Ensemble (Server) - The average width for 95%  credible intervals of round3 : 1.0970787919470593
+Student1 (client) - RMSPE(true,pred Student1) of round3 : 1.8740494813135045
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round3 : 1.8734462477521898
+Communication round: 4
+Student2 (client) - The average width for 95%  credible intervals of round4 : 1.3014493
+Ensemble (Server) - The average width for 95%  credible intervals of round4 : 1.30279678687124
+Student1 (client) - RMSPE(true,pred Student1) of round4 : 1.1564766035760463
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round4 : 1.1256442555477437
+Communication round: 5
+Student2 (client) - The average width for 95%  credible intervals of round5 : 1.3188587
+Ensemble (Server) - The average width for 95%  credible intervals of round5 : 1.3197008899812646
+Student1 (client) - RMSPE(true,pred Student1) of round5 : 1.009786899997214
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round5 : 0.9711016888502297
+Communication round: 6
+Student2 (client) - The average width for 95%  credible intervals of round6 : 1.6866214
+Ensemble (Server) - The average width for 95%  credible intervals of round6 : 1.6872662116760861
+Student1 (client) - RMSPE(true,pred Student1) of round6 : 1.0461986151913196
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round6 : 1.0154519876524275
+Communication round: 7
+Student2 (client) - The average width for 95%  credible intervals of round7 : 1.6594917
+Ensemble (Server) - The average width for 95%  credible intervals of round7 : 1.6589520085985558
+Student1 (client) - RMSPE(true,pred Student1) of round7 : 1.0372487540413664
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round7 : 0.9908322781793745
+Communication round: 8
+Student2 (client) - The average width for 95%  credible intervals of round8 : 1.660867
+Ensemble (Server) - The average width for 95%  credible intervals of round8 : 1.6608708086075183
+Student1 (client) - RMSPE(true,pred Student1) of round8 : 0.8603967152396425
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round8 : 0.8389199859302933
+Communication round: 9
+Student2 (client) - The average width for 95%  credible intervals of round9 : 1.6842847
+Ensemble (Server) - The average width for 95%  credible intervals of round9 : 1.6846191288115768
+Student1 (client) - RMSPE(true,pred Student1) of round9 : 0.8718425690491449
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round9 : 0.8374788807612212
+Communication round: 10
+Student2 (client) - The average width for 95%  credible intervals of round10 : 1.6379113
+Ensemble (Server) - The average width for 95%  credible intervals of round10 : 1.638090678233397
+Student1 (client) - RMSPE(true,pred Student1) of round10 : 0.8325150170470114
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round10 : 0.8102891883267438
+Communication round: 11
+Student2 (client) - The average width for 95%  credible intervals of round11 : 1.523295
+Ensemble (Server) - The average width for 95%  credible intervals of round11 : 1.5228137646167357
+Student1 (client) - RMSPE(true,pred Student1) of round11 : 0.7800297310338657
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round11 : 0.758583217649463
+Communication round: 12
+Student2 (client) - The average width for 95%  credible intervals of round12 : 1.5282533
+Ensemble (Server) - The average width for 95%  credible intervals of round12 : 1.5290067185472973
+Student1 (client) - RMSPE(true,pred Student1) of round12 : 0.7462443533856462
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round12 : 0.7185591350389607
+Communication round: 13
+Student2 (client) - The average width for 95%  credible intervals of round13 : 1.6495554
+Ensemble (Server) - The average width for 95%  credible intervals of round13 : 1.6512460052621607
+Student1 (client) - RMSPE(true,pred Student1) of round13 : 0.7607226521539101
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round13 : 0.7377623426415736
+Communication round: 14
+Student2 (client) - The average width for 95%  credible intervals of round14 : 1.5864431
+Ensemble (Server) - The average width for 95%  credible intervals of round14 : 1.5873518812435496
+Student1 (client) - RMSPE(true,pred Student1) of round14 : 0.7713127009268875
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round14 : 0.7275278956836323
+Communication round: 15
+Student2 (client) - The average width for 95%  credible intervals of round15 : 1.6228269
+Ensemble (Server) - The average width for 95%  credible intervals of round15 : 1.6231521378533806
+Student1 (client) - RMSPE(true,pred Student1) of round15 : 0.7225276077727371
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round15 : 0.6701832417348211
+Communication round: 16
+Student2 (client) - The average width for 95%  credible intervals of round16 : 1.6707729
+Ensemble (Server) - The average width for 95%  credible intervals of round16 : 1.6714568132382388
+Student1 (client) - RMSPE(true,pred Student1) of round16 : 0.7664740616484428
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round16 : 0.725762604523299
+Communication round: 17
+Student2 (client) - The average width for 95%  credible intervals of round17 : 1.6418422
+Ensemble (Server) - The average width for 95%  credible intervals of round17 : 1.6420550151117097
+Student1 (client) - RMSPE(true,pred Student1) of round17 : 0.7289821992262541
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round17 : 0.7082969959052483
+Communication round: 18
+Student2 (client) - The average width for 95%  credible intervals of round18 : 1.6976328
+Ensemble (Server) - The average width for 95%  credible intervals of round18 : 1.697404025602236
+Student1 (client) - RMSPE(true,pred Student1) of round18 : 0.7626259611501842
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round18 : 0.711256217500815
+Communication round: 19
+Student2 (client) - The average width for 95%  credible intervals of round19 : 1.7295766
+Ensemble (Server) - The average width for 95%  credible intervals of round19 : 1.729112330529773
+Student1 (client) - RMSPE(true,pred Student1) of round19 : 0.7617512813419985
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round19 : 0.7001153708554393
+Communication round: 20
+Student2 (client) - The average width for 95%  credible intervals of round20 : 1.7488246
+Ensemble (Server) - The average width for 95%  credible intervals of round20 : 1.747882865376733
+Student1 (client) - RMSPE(true,pred Student1) of round20 : 0.7190171358663563
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round20 : 0.6944300663824331
+Communication round: 21
+Student2 (client) - The average width for 95%  credible intervals of round21 : 1.7424594
+Ensemble (Server) - The average width for 95%  credible intervals of round21 : 1.741640185271385
+Student1 (client) - RMSPE(true,pred Student1) of round21 : 0.6947155035433482
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round21 : 0.6828149765760758
+Communication round: 22
+Student2 (client) - The average width for 95%  credible intervals of round22 : 1.7758951
+Ensemble (Server) - The average width for 95%  credible intervals of round22 : 1.776252088726557
+Student1 (client) - RMSPE(true,pred Student1) of round22 : 0.7667004647875909
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round22 : 0.7293812072616467
+Communication round: 23
+Student2 (client) - The average width for 95%  credible intervals of round23 : 1.7937969
+Ensemble (Server) - The average width for 95%  credible intervals of round23 : 1.7935866332702333
+Student1 (client) - RMSPE(true,pred Student1) of round23 : 0.7761711175702923
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round23 : 0.7352504103118256
+Communication round: 24
+Student2 (client) - The average width for 95%  credible intervals of round24 : 1.7818464
+Ensemble (Server) - The average width for 95%  credible intervals of round24 : 1.7827408191189742
+Student1 (client) - RMSPE(true,pred Student1) of round24 : 0.7959666901892768
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round24 : 0.7681111927782199
+Communication round: 25
+Student2 (client) - The average width for 95%  credible intervals of round25 : 1.7371974
+Ensemble (Server) - The average width for 95%  credible intervals of round25 : 1.7378602051596972
+Student1 (client) - RMSPE(true,pred Student1) of round25 : 0.7663806661985443
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round25 : 0.7388641269089845
+Communication round: 26
+Student2 (client) - The average width for 95%  credible intervals of round26 : 1.7659391
+Ensemble (Server) - The average width for 95%  credible intervals of round26 : 1.7670851310219315
+Student1 (client) - RMSPE(true,pred Student1) of round26 : 0.8443440888550331
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round26 : 0.833884445902066
+Communication round: 27
+Student2 (client) - The average width for 95%  credible intervals of round27 : 1.7716823
+Ensemble (Server) - The average width for 95%  credible intervals of round27 : 1.7722680131794206
+Student1 (client) - RMSPE(true,pred Student1) of round27 : 0.8422829235927574
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round27 : 0.8098578321913243
+Communication round: 28
+Student2 (client) - The average width for 95%  credible intervals of round28 : 1.7338976
+Ensemble (Server) - The average width for 95%  credible intervals of round28 : 1.7339530192706547
+Student1 (client) - RMSPE(true,pred Student1) of round28 : 0.8352297539532948
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round28 : 0.7899612002785682
+Communication round: 29
+Student2 (client) - The average width for 95%  credible intervals of round29 : 1.7455069
+Ensemble (Server) - The average width for 95%  credible intervals of round29 : 1.7456693812307447
+Student1 (client) - RMSPE(true,pred Student1) of round29 : 0.793805654329917
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round29 : 0.7503259496511074
+Communication round: 30
+Student2 (client) - The average width for 95%  credible intervals of round30 : 1.7563784
+Ensemble (Server) - The average width for 95%  credible intervals of round30 : 1.7566065598609972
+Student1 (client) - RMSPE(true,pred Student1) of round30 : 0.8226594961951683
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round30 : 0.8046861001795925
+Communication round: 31
+Student2 (client) - The average width for 95%  credible intervals of round31 : 1.7682322
+Ensemble (Server) - The average width for 95%  credible intervals of round31 : 1.7670980518180845
+Student1 (client) - RMSPE(true,pred Student1) of round31 : 0.8145484293954182
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round31 : 0.7810783568807539
+Communication round: 32
+Student2 (client) - The average width for 95%  credible intervals of round32 : 1.77488
+Ensemble (Server) - The average width for 95%  credible intervals of round32 : 1.775786240720537
+Student1 (client) - RMSPE(true,pred Student1) of round32 : 0.8137012991928906
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round32 : 0.7942353893114994
+Communication round: 33
+Student2 (client) - The average width for 95%  credible intervals of round33 : 1.7549273
+Ensemble (Server) - The average width for 95%  credible intervals of round33 : 1.7559322923962972
+Student1 (client) - RMSPE(true,pred Student1) of round33 : 0.7897976837199828
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round33 : 0.762460188843033
+Communication round: 34
+Student2 (client) - The average width for 95%  credible intervals of round34 : 1.7747409
+Ensemble (Server) - The average width for 95%  credible intervals of round34 : 1.7748160608801862
+Student1 (client) - RMSPE(true,pred Student1) of round34 : 0.7612226806405243
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round34 : 0.7869789959877771
+Communication round: 35
+Student2 (client) - The average width for 95%  credible intervals of round35 : 1.7904314
+Ensemble (Server) - The average width for 95%  credible intervals of round35 : 1.7898650630870727
+Student1 (client) - RMSPE(true,pred Student1) of round35 : 0.8061949319047481
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round35 : 0.7844955523657519
+Communication round: 36
+Student2 (client) - The average width for 95%  credible intervals of round36 : 1.7684215
+Ensemble (Server) - The average width for 95%  credible intervals of round36 : 1.7690463378900494
+Student1 (client) - RMSPE(true,pred Student1) of round36 : 0.8128623694528893
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round36 : 0.7906600020674913
+Communication round: 37
+Student2 (client) - The average width for 95%  credible intervals of round37 : 1.7627226
+Ensemble (Server) - The average width for 95%  credible intervals of round37 : 1.762678964784964
+Student1 (client) - RMSPE(true,pred Student1) of round37 : 0.7919002246071045
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round37 : 0.7777035026072491
+Communication round: 38
+Student2 (client) - The average width for 95%  credible intervals of round38 : 1.7853886
+Ensemble (Server) - The average width for 95%  credible intervals of round38 : 1.785988630403714
+Student1 (client) - RMSPE(true,pred Student1) of round38 : 0.7769931049575773
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round38 : 0.7830552991315514
+Communication round: 39
+Student2 (client) - The average width for 95%  credible intervals of round39 : 1.8252561
+Ensemble (Server) - The average width for 95%  credible intervals of round39 : 1.825298963983846
+Student1 (client) - RMSPE(true,pred Student1) of round39 : 0.8880234599249702
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round39 : 0.8089446820508885
+Communication round: 40
+Student2 (client) - The average width for 95%  credible intervals of round40 : 1.807132
+Ensemble (Server) - The average width for 95%  credible intervals of round40 : 1.8071193645891983
+Student1 (client) - RMSPE(true,pred Student1) of round40 : 0.825126728075058
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round40 : 0.8274643545563729
+Communication round: 41
+Student2 (client) - The average width for 95%  credible intervals of round41 : 1.8155171
+Ensemble (Server) - The average width for 95%  credible intervals of round41 : 1.8162262323761509
+Student1 (client) - RMSPE(true,pred Student1) of round41 : 0.830245086915936
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round41 : 0.8177542060036778
+Communication round: 42
+Student2 (client) - The average width for 95%  credible intervals of round42 : 1.812947
+Ensemble (Server) - The average width for 95%  credible intervals of round42 : 1.8133195422134003
+Student1 (client) - RMSPE(true,pred Student1) of round42 : 0.8742384444314059
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round42 : 0.8466544451375242
+Communication round: 43
+Student2 (client) - The average width for 95%  credible intervals of round43 : 1.8144999
+Ensemble (Server) - The average width for 95%  credible intervals of round43 : 1.8140359237098853
+Student1 (client) - RMSPE(true,pred Student1) of round43 : 0.9356832591121905
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round43 : 0.9172012435727258
+Communication round: 44
+Student2 (client) - The average width for 95%  credible intervals of round44 : 1.8463502
+Ensemble (Server) - The average width for 95%  credible intervals of round44 : 1.846086737528742
+Student1 (client) - RMSPE(true,pred Student1) of round44 : 1.027016101724839
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round44 : 1.0086365274847087
+Communication round: 45
+Student2 (client) - The average width for 95%  credible intervals of round45 : 1.8286004
+Ensemble (Server) - The average width for 95%  credible intervals of round45 : 1.8287651066578126
+Student1 (client) - RMSPE(true,pred Student1) of round45 : 1.013955618613442
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round45 : 0.9922979557402546
+Communication round: 46
+Student2 (client) - The average width for 95%  credible intervals of round46 : 1.8123628
+Ensemble (Server) - The average width for 95%  credible intervals of round46 : 1.8125992378008362
+Student1 (client) - RMSPE(true,pred Student1) of round46 : 1.00586147055787
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round46 : 0.9845579062978859
+Communication round: 47
+Student2 (client) - The average width for 95%  credible intervals of round47 : 1.8223284
+Ensemble (Server) - The average width for 95%  credible intervals of round47 : 1.8225765897737858
+Student1 (client) - RMSPE(true,pred Student1) of round47 : 0.9714704789553146
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round47 : 0.9543843628963428
+Communication round: 48
+Student2 (client) - The average width for 95%  credible intervals of round48 : 1.8119563
+Ensemble (Server) - The average width for 95%  credible intervals of round48 : 1.811994666216707
+Student1 (client) - RMSPE(true,pred Student1) of round48 : 0.9661457063310005
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round48 : 0.9475920556156857
+Communication round: 49
+Student2 (client) - The average width for 95%  credible intervals of round49 : 1.8091118
+Ensemble (Server) - The average width for 95%  credible intervals of round49 : 1.8087568890233454
+Student1 (client) - RMSPE(true,pred Student1) of round49 : 0.9369415375870174
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round49 : 0.9184260256587397
+Communication round: 50
+Student2 (client) - The average width for 95%  credible intervals of round50 : 1.8188436
+Ensemble (Server) - The average width for 95%  credible intervals of round50 : 1.8183428323579185
+Student1 (client) - RMSPE(true,pred Student1) of round50 : 0.9012073068741444
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round50 : 0.8860619452406765
+Communication round: 51
+Student2 (client) - The average width for 95%  credible intervals of round51 : 1.8056765
+Ensemble (Server) - The average width for 95%  credible intervals of round51 : 1.8063408050173986
+Student1 (client) - RMSPE(true,pred Student1) of round51 : 0.8791081600544618
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round51 : 0.8628817143390678
+Communication round: 52
+Student2 (client) - The average width for 95%  credible intervals of round52 : 1.8090898
+Ensemble (Server) - The average width for 95%  credible intervals of round52 : 1.8084015178937742
+Student1 (client) - RMSPE(true,pred Student1) of round52 : 0.8557603065799323
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round52 : 0.8290807753042726
+Communication round: 53
+Student2 (client) - The average width for 95%  credible intervals of round53 : 1.8008484
+Ensemble (Server) - The average width for 95%  credible intervals of round53 : 1.800521109520241
+Student1 (client) - RMSPE(true,pred Student1) of round53 : 0.835832091477379
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round53 : 0.8313083487817048
+Communication round: 54
+Student2 (client) - The average width for 95%  credible intervals of round54 : 1.7941359
+Ensemble (Server) - The average width for 95%  credible intervals of round54 : 1.7946610552708822
+Student1 (client) - RMSPE(true,pred Student1) of round54 : 0.8499154917516794
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round54 : 0.8396148781207771
+Communication round: 55
+Student2 (client) - The average width for 95%  credible intervals of round55 : 1.7808545
+Ensemble (Server) - The average width for 95%  credible intervals of round55 : 1.7803904536843531
+Student1 (client) - RMSPE(true,pred Student1) of round55 : 0.8331312234484504
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round55 : 0.8246137229107723
+Communication round: 56
+Student2 (client) - The average width for 95%  credible intervals of round56 : 1.8076069
+Ensemble (Server) - The average width for 95%  credible intervals of round56 : 1.8076536968260957
+Student1 (client) - RMSPE(true,pred Student1) of round56 : 0.8240912281843167
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round56 : 0.793394602361998
+Communication round: 57
+Student2 (client) - The average width for 95%  credible intervals of round57 : 1.8050493
+Ensemble (Server) - The average width for 95%  credible intervals of round57 : 1.8052231224170956
+Student1 (client) - RMSPE(true,pred Student1) of round57 : 0.8296255761650002
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round57 : 0.7989822114742657
+Communication round: 58
+Student2 (client) - The average width for 95%  credible intervals of round58 : 1.8195416
+Ensemble (Server) - The average width for 95%  credible intervals of round58 : 1.8195811904463406
+Student1 (client) - RMSPE(true,pred Student1) of round58 : 0.8516459332756563
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round58 : 0.8359766784674335
+Communication round: 59
+Student2 (client) - The average width for 95%  credible intervals of round59 : 1.8301029
+Ensemble (Server) - The average width for 95%  credible intervals of round59 : 1.830027300483046
+Student1 (client) - RMSPE(true,pred Student1) of round59 : 0.9008538839298024
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round59 : 0.8734833063631243
+Communication round: 60
+Student2 (client) - The average width for 95%  credible intervals of round60 : 1.8140416
+Ensemble (Server) - The average width for 95%  credible intervals of round60 : 1.813441155147797
+Student1 (client) - RMSPE(true,pred Student1) of round60 : 0.9120365983162592
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round60 : 0.8784205265786903
+Communication round: 61
+Student2 (client) - The average width for 95%  credible intervals of round61 : 1.8032892
+Ensemble (Server) - The average width for 95%  credible intervals of round61 : 1.803243318142275
+Student1 (client) - RMSPE(true,pred Student1) of round61 : 0.8664053704577476
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round61 : 0.8782453712943471
+Communication round: 62
+Student2 (client) - The average width for 95%  credible intervals of round62 : 1.7899785
+Ensemble (Server) - The average width for 95%  credible intervals of round62 : 1.789701742017626
+Student1 (client) - RMSPE(true,pred Student1) of round62 : 0.9025525600376193
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round62 : 0.8840358504462726
+Communication round: 63
+Student2 (client) - The average width for 95%  credible intervals of round63 : 1.802975
+Ensemble (Server) - The average width for 95%  credible intervals of round63 : 1.8028947239036222
+Student1 (client) - RMSPE(true,pred Student1) of round63 : 0.9099846551169607
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round63 : 0.8893933648834417
+Communication round: 64
+Student2 (client) - The average width for 95%  credible intervals of round64 : 1.8132563
+Ensemble (Server) - The average width for 95%  credible intervals of round64 : 1.8129427570798105
+Student1 (client) - RMSPE(true,pred Student1) of round64 : 0.9005947092567582
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round64 : 0.8778029958187484
+Communication round: 65
+Student2 (client) - The average width for 95%  credible intervals of round65 : 1.815772
+Ensemble (Server) - The average width for 95%  credible intervals of round65 : 1.8161531203350068
+Student1 (client) - RMSPE(true,pred Student1) of round65 : 0.8917263759275141
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round65 : 0.876611424766788
+Communication round: 66
+Student2 (client) - The average width for 95%  credible intervals of round66 : 1.8181077
+Ensemble (Server) - The average width for 95%  credible intervals of round66 : 1.8180011178734485
+Student1 (client) - RMSPE(true,pred Student1) of round66 : 0.8722600161551783
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round66 : 0.8538568324955587
+Communication round: 67
+Student2 (client) - The average width for 95%  credible intervals of round67 : 1.8305694
+Ensemble (Server) - The average width for 95%  credible intervals of round67 : 1.8301482267224263
+Student1 (client) - RMSPE(true,pred Student1) of round67 : 0.8997894675697525
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round67 : 0.8389002681081053
+Communication round: 68
+Student2 (client) - The average width for 95%  credible intervals of round68 : 1.8501388
+Ensemble (Server) - The average width for 95%  credible intervals of round68 : 1.849566730913928
+Student1 (client) - RMSPE(true,pred Student1) of round68 : 0.8980774202614892
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round68 : 0.8809928348236037
+Communication round: 69
+Student2 (client) - The average width for 95%  credible intervals of round69 : 1.834011
+Ensemble (Server) - The average width for 95%  credible intervals of round69 : 1.8344126445717264
+Student1 (client) - RMSPE(true,pred Student1) of round69 : 0.8998832162976906
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round69 : 0.8752735353020852
+Communication round: 70
+Student2 (client) - The average width for 95%  credible intervals of round70 : 1.8321869
+Ensemble (Server) - The average width for 95%  credible intervals of round70 : 1.832052172119288
+Student1 (client) - RMSPE(true,pred Student1) of round70 : 0.8991468235615905
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round70 : 0.8643142238856263
+Communication round: 71
+Student2 (client) - The average width for 95%  credible intervals of round71 : 1.8243583
+Ensemble (Server) - The average width for 95%  credible intervals of round71 : 1.8247459395420185
+Student1 (client) - RMSPE(true,pred Student1) of round71 : 0.8868673567881921
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round71 : 0.8652488333491101
+Communication round: 72
+Student2 (client) - The average width for 95%  credible intervals of round72 : 1.8196653
+Ensemble (Server) - The average width for 95%  credible intervals of round72 : 1.8198833485297576
+Student1 (client) - RMSPE(true,pred Student1) of round72 : 0.8976493747058096
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round72 : 0.8718619088183468
+Communication round: 73
+Student2 (client) - The average width for 95%  credible intervals of round73 : 1.8235483
+Ensemble (Server) - The average width for 95%  credible intervals of round73 : 1.8239445959953478
+Student1 (client) - RMSPE(true,pred Student1) of round73 : 0.8617585239505279
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round73 : 0.904408660340305
+Communication round: 74
+Student2 (client) - The average width for 95%  credible intervals of round74 : 1.8468289
+Ensemble (Server) - The average width for 95%  credible intervals of round74 : 1.8472875522674794
+Student1 (client) - RMSPE(true,pred Student1) of round74 : 1.0251514492368374
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round74 : 0.9474117479219091
+Communication round: 75
+Student2 (client) - The average width for 95%  credible intervals of round75 : 1.8511558
+Ensemble (Server) - The average width for 95%  credible intervals of round75 : 1.8517916017438227
+Student1 (client) - RMSPE(true,pred Student1) of round75 : 0.9771012506778282
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round75 : 0.9508421603137008
+Communication round: 76
+Student2 (client) - The average width for 95%  credible intervals of round76 : 1.8542813
+Ensemble (Server) - The average width for 95%  credible intervals of round76 : 1.8544838189470543
+Student1 (client) - RMSPE(true,pred Student1) of round76 : 0.990648204991482
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round76 : 0.9669120284628988
+Communication round: 77
+Student2 (client) - The average width for 95%  credible intervals of round77 : 1.8471012
+Ensemble (Server) - The average width for 95%  credible intervals of round77 : 1.8473883260496273
+Student1 (client) - RMSPE(true,pred Student1) of round77 : 0.9769651767936278
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round77 : 0.9762003567554861
+Communication round: 78
+Student2 (client) - The average width for 95%  credible intervals of round78 : 1.8620867
+Ensemble (Server) - The average width for 95%  credible intervals of round78 : 1.8629033309765806
+Student1 (client) - RMSPE(true,pred Student1) of round78 : 0.9885028149598608
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round78 : 0.978323123876376
+Communication round: 79
+Student2 (client) - The average width for 95%  credible intervals of round79 : 1.8539345
+Ensemble (Server) - The average width for 95%  credible intervals of round79 : 1.8544042231004743
+Student1 (client) - RMSPE(true,pred Student1) of round79 : 0.9973847759900338
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round79 : 0.9814215900698783
+Communication round: 80
+Student2 (client) - The average width for 95%  credible intervals of round80 : 1.8645515
+Ensemble (Server) - The average width for 95%  credible intervals of round80 : 1.8646584495988063
+Student1 (client) - RMSPE(true,pred Student1) of round80 : 1.0154888953777372
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round80 : 0.9913141266510008
+Communication round: 81
+Student2 (client) - The average width for 95%  credible intervals of round81 : 1.8764546
+Ensemble (Server) - The average width for 95%  credible intervals of round81 : 1.8761544594043957
+Student1 (client) - RMSPE(true,pred Student1) of round81 : 1.0098191432985568
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round81 : 1.0067632553448003
+Communication round: 82
+Student2 (client) - The average width for 95%  credible intervals of round82 : 1.8924578
+Ensemble (Server) - The average width for 95%  credible intervals of round82 : 1.893211028098337
+Student1 (client) - RMSPE(true,pred Student1) of round82 : 0.9489763485053528
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round82 : 0.9829575353812564
+Communication round: 83
+Student2 (client) - The average width for 95%  credible intervals of round83 : 1.8925267
+Ensemble (Server) - The average width for 95%  credible intervals of round83 : 1.8930026612871405
+Student1 (client) - RMSPE(true,pred Student1) of round83 : 0.9982527006294101
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round83 : 0.9802870503300254
+Communication round: 84
+Student2 (client) - The average width for 95%  credible intervals of round84 : 1.8913287
+Ensemble (Server) - The average width for 95%  credible intervals of round84 : 1.8908572240779262
+Student1 (client) - RMSPE(true,pred Student1) of round84 : 1.053563339949425
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round84 : 1.007087697556062
+Communication round: 85
+Student2 (client) - The average width for 95%  credible intervals of round85 : 1.8855004
+Ensemble (Server) - The average width for 95%  credible intervals of round85 : 1.8856169607611437
+Student1 (client) - RMSPE(true,pred Student1) of round85 : 1.0270562482154986
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round85 : 1.014293050471549
+Communication round: 86
+Student2 (client) - The average width for 95%  credible intervals of round86 : 1.8782897
+Ensemble (Server) - The average width for 95%  credible intervals of round86 : 1.8783175689893865
+Student1 (client) - RMSPE(true,pred Student1) of round86 : 1.0139154838038296
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round86 : 1.004595120075193
+Communication round: 87
+Student2 (client) - The average width for 95%  credible intervals of round87 : 1.8730785
+Ensemble (Server) - The average width for 95%  credible intervals of round87 : 1.872983771613297
+Student1 (client) - RMSPE(true,pred Student1) of round87 : 1.0164934566168793
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round87 : 0.9833934387919718
+Communication round: 88
+Student2 (client) - The average width for 95%  credible intervals of round88 : 1.8703505
+Ensemble (Server) - The average width for 95%  credible intervals of round88 : 1.8735792375472626
+Student1 (client) - RMSPE(true,pred Student1) of round88 : 1.0016691197541405
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round88 : 0.9787884296656479
+Communication round: 89
+Student2 (client) - The average width for 95%  credible intervals of round89 : 1.8858296
+Ensemble (Server) - The average width for 95%  credible intervals of round89 : 1.8853300665963033
+Student1 (client) - RMSPE(true,pred Student1) of round89 : 1.005626774531085
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round89 : 0.9871840900137735
+Communication round: 90
+Student2 (client) - The average width for 95%  credible intervals of round90 : 1.8833616
+Ensemble (Server) - The average width for 95%  credible intervals of round90 : 1.8830539830852369
+Student1 (client) - RMSPE(true,pred Student1) of round90 : 0.9934847417527131
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round90 : 0.9613794669728245
+Communication round: 91
+Student2 (client) - The average width for 95%  credible intervals of round91 : 1.8884798
+Ensemble (Server) - The average width for 95%  credible intervals of round91 : 1.887665681446402
+Student1 (client) - RMSPE(true,pred Student1) of round91 : 0.9793794259834969
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round91 : 0.9659730514858387
+Communication round: 92
+Student2 (client) - The average width for 95%  credible intervals of round92 : 1.8789482
+Ensemble (Server) - The average width for 95%  credible intervals of round92 : 1.879639005915554
+Student1 (client) - RMSPE(true,pred Student1) of round92 : 0.9767438806765196
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round92 : 0.9583441222234874
+Communication round: 93
+Student2 (client) - The average width for 95%  credible intervals of round93 : 1.8900244
+Ensemble (Server) - The average width for 95%  credible intervals of round93 : 1.8904397847673733
+Student1 (client) - RMSPE(true,pred Student1) of round93 : 1.0156086336707162
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round93 : 0.9917746134587981
+Communication round: 94
+Student2 (client) - The average width for 95%  credible intervals of round94 : 1.8956716
+Ensemble (Server) - The average width for 95%  credible intervals of round94 : 1.896016529348064
+Student1 (client) - RMSPE(true,pred Student1) of round94 : 1.0239597206101405
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round94 : 1.002006761840758
+Communication round: 95
+Student2 (client) - The average width for 95%  credible intervals of round95 : 1.8921854
+Ensemble (Server) - The average width for 95%  credible intervals of round95 : 1.8935052845071703
+Student1 (client) - RMSPE(true,pred Student1) of round95 : 1.0063400523636727
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round95 : 1.0205617180634
+Communication round: 96
+Student2 (client) - The average width for 95%  credible intervals of round96 : 1.9068398
+Ensemble (Server) - The average width for 95%  credible intervals of round96 : 1.9068036207478742
+Student1 (client) - RMSPE(true,pred Student1) of round96 : 1.0674284522611894
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round96 : 1.0461700637055216
+Communication round: 97
+Student2 (client) - The average width for 95%  credible intervals of round97 : 1.9057789
+Ensemble (Server) - The average width for 95%  credible intervals of round97 : 1.9058419322201134
+Student1 (client) - RMSPE(true,pred Student1) of round97 : 1.0626845647095877
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round97 : 1.0281470777714221
+Communication round: 98
+Student2 (client) - The average width for 95%  credible intervals of round98 : 1.9146568
+Ensemble (Server) - The average width for 95%  credible intervals of round98 : 1.9144532622368882
+Student1 (client) - RMSPE(true,pred Student1) of round98 : 1.0397444960954956
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round98 : 1.0102870678800753
+Communication round: 99
+Student2 (client) - The average width for 95%  credible intervals of round99 : 1.9184611
+Ensemble (Server) - The average width for 95%  credible intervals of round99 : 1.9179398221216901
+Student1 (client) - RMSPE(true,pred Student1) of round99 : 1.0297024061978515
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round99 : 1.0063121301734632
+Communication round: 100
+Student2 (client) - The average width for 95%  credible intervals of round100 : 1.9091274
+Ensemble (Server) - The average width for 95%  credible intervals of round100 : 1.9084417274957055
+Student1 (client) - RMSPE(true,pred Student1) of round100 : 1.0401658067770512
+Ensemble (Server) - RMSPE(true,mean Ensemble) of round100 : 1.007711117131171

@@ -18,7 +18,7 @@ Figure 1. 2S approach (**with truncation filter**) applied to the regression pro
 [GIF](https://github.com/cristovaoiglesias/2S/blob/main/exp_without_truncation_full.gif)
 
 
-Figure 1. 2S approach (**without truncation filter**) applied to the regression problem of paper.
+Figure 2. 2S approach (**without truncation filter**) applied to the regression problem of paper.
 
 
 

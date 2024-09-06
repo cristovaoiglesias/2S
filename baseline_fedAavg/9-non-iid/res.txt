@@ -1,0 +1,202 @@
+(3555, 1) (3555,)
+FedAVG (server) round0 - RMSPE(true,pred FedAVG):  13.494960678397147
+Communication Round 1/100
+FedAVG (server) round1 - RMSPE(true,pred FedAVG):  8.809565764374693
+Communication Round 2/100
+FedAVG (server) round2 - RMSPE(true,pred FedAVG):  5.1734913247498335
+Communication Round 3/100
+FedAVG (server) round3 - RMSPE(true,pred FedAVG):  1.9820508038488818
+Communication Round 4/100
+FedAVG (server) round4 - RMSPE(true,pred FedAVG):  0.9496014069688767
+Communication Round 5/100
+FedAVG (server) round5 - RMSPE(true,pred FedAVG):  0.7847901117774339
+Communication Round 6/100
+FedAVG (server) round6 - RMSPE(true,pred FedAVG):  0.6255477080799687
+Communication Round 7/100
+FedAVG (server) round7 - RMSPE(true,pred FedAVG):  0.9006494959390818
+Communication Round 8/100
+FedAVG (server) round8 - RMSPE(true,pred FedAVG):  0.6945968189763069
+Communication Round 9/100
+FedAVG (server) round9 - RMSPE(true,pred FedAVG):  0.7529105281170939
+Communication Round 10/100
+FedAVG (server) round10 - RMSPE(true,pred FedAVG):  0.7903294092158062
+Communication Round 11/100
+FedAVG (server) round11 - RMSPE(true,pred FedAVG):  0.8066370466289062
+Communication Round 12/100
+FedAVG (server) round12 - RMSPE(true,pred FedAVG):  0.7130455790455245
+Communication Round 13/100
+FedAVG (server) round13 - RMSPE(true,pred FedAVG):  0.6706720091277293
+Communication Round 14/100
+FedAVG (server) round14 - RMSPE(true,pred FedAVG):  1.0497612760531747
+Communication Round 15/100
+FedAVG (server) round15 - RMSPE(true,pred FedAVG):  0.5895789381328571
+Communication Round 16/100
+FedAVG (server) round16 - RMSPE(true,pred FedAVG):  0.6283968650362125
+Communication Round 17/100
+FedAVG (server) round17 - RMSPE(true,pred FedAVG):  0.7201700697740091
+Communication Round 18/100
+FedAVG (server) round18 - RMSPE(true,pred FedAVG):  0.5451057377061533
+Communication Round 19/100
+FedAVG (server) round19 - RMSPE(true,pred FedAVG):  0.6469766281993308
+Communication Round 20/100
+FedAVG (server) round20 - RMSPE(true,pred FedAVG):  0.7837929004365942
+Communication Round 21/100
+FedAVG (server) round21 - RMSPE(true,pred FedAVG):  0.5626704345609774
+Communication Round 22/100
+FedAVG (server) round22 - RMSPE(true,pred FedAVG):  0.6298515814381344
+Communication Round 23/100
+FedAVG (server) round23 - RMSPE(true,pred FedAVG):  0.6084534474252745
+Communication Round 24/100
+FedAVG (server) round24 - RMSPE(true,pred FedAVG):  0.594658875448819
+Communication Round 25/100
+FedAVG (server) round25 - RMSPE(true,pred FedAVG):  0.608507635588002
+Communication Round 26/100
+FedAVG (server) round26 - RMSPE(true,pred FedAVG):  0.6263138657930237
+Communication Round 27/100
+FedAVG (server) round27 - RMSPE(true,pred FedAVG):  0.5948362960773792
+Communication Round 28/100
+FedAVG (server) round28 - RMSPE(true,pred FedAVG):  0.6304316091600688
+Communication Round 29/100
+FedAVG (server) round29 - RMSPE(true,pred FedAVG):  0.6476438387940093
+Communication Round 30/100
+FedAVG (server) round30 - RMSPE(true,pred FedAVG):  0.714354941296079
+Communication Round 31/100
+FedAVG (server) round31 - RMSPE(true,pred FedAVG):  0.6629634580048119
+Communication Round 32/100
+FedAVG (server) round32 - RMSPE(true,pred FedAVG):  0.704556796399091
+Communication Round 33/100
+FedAVG (server) round33 - RMSPE(true,pred FedAVG):  0.9879749597582199
+Communication Round 34/100
+FedAVG (server) round34 - RMSPE(true,pred FedAVG):  0.6643992569908488
+Communication Round 35/100
+FedAVG (server) round35 - RMSPE(true,pred FedAVG):  0.7416783875801495
+Communication Round 36/100
+FedAVG (server) round36 - RMSPE(true,pred FedAVG):  0.7135946698321193
+Communication Round 37/100
+FedAVG (server) round37 - RMSPE(true,pred FedAVG):  0.6144743954010978
+Communication Round 38/100
+FedAVG (server) round38 - RMSPE(true,pred FedAVG):  0.5993664476145221
+Communication Round 39/100
+FedAVG (server) round39 - RMSPE(true,pred FedAVG):  0.6122233835602585
+Communication Round 40/100
+FedAVG (server) round40 - RMSPE(true,pred FedAVG):  0.806198594474041
+Communication Round 41/100
+FedAVG (server) round41 - RMSPE(true,pred FedAVG):  0.6367274855422465
+Communication Round 42/100
+FedAVG (server) round42 - RMSPE(true,pred FedAVG):  0.6421113527820637
+Communication Round 43/100
+FedAVG (server) round43 - RMSPE(true,pred FedAVG):  0.6823361334064323
+Communication Round 44/100
+FedAVG (server) round44 - RMSPE(true,pred FedAVG):  0.5654429772565209
+Communication Round 45/100
+FedAVG (server) round45 - RMSPE(true,pred FedAVG):  0.5766870145791707
+Communication Round 46/100
+FedAVG (server) round46 - RMSPE(true,pred FedAVG):  0.7109667849774055
+Communication Round 47/100
+FedAVG (server) round47 - RMSPE(true,pred FedAVG):  0.7089138884503644
+Communication Round 48/100
+FedAVG (server) round48 - RMSPE(true,pred FedAVG):  0.6559795970102812
+Communication Round 49/100
+FedAVG (server) round49 - RMSPE(true,pred FedAVG):  0.6736218062110293
+Communication Round 50/100
+FedAVG (server) round50 - RMSPE(true,pred FedAVG):  0.7101103976997268
+Communication Round 51/100
+FedAVG (server) round51 - RMSPE(true,pred FedAVG):  0.7415472273509528
+Communication Round 52/100
+FedAVG (server) round52 - RMSPE(true,pred FedAVG):  0.652893716045956
+Communication Round 53/100
+FedAVG (server) round53 - RMSPE(true,pred FedAVG):  0.5950596066291101
+Communication Round 54/100
+FedAVG (server) round54 - RMSPE(true,pred FedAVG):  0.6010942274605577
+Communication Round 55/100
+FedAVG (server) round55 - RMSPE(true,pred FedAVG):  0.9110131822938633
+Communication Round 56/100
+FedAVG (server) round56 - RMSPE(true,pred FedAVG):  0.8379338188550751
+Communication Round 57/100
+FedAVG (server) round57 - RMSPE(true,pred FedAVG):  0.6305100339418032
+Communication Round 58/100
+FedAVG (server) round58 - RMSPE(true,pred FedAVG):  0.6003501071875289
+Communication Round 59/100
+FedAVG (server) round59 - RMSPE(true,pred FedAVG):  0.7100390711492062
+Communication Round 60/100
+FedAVG (server) round60 - RMSPE(true,pred FedAVG):  0.8328336850266488
+Communication Round 61/100
+FedAVG (server) round61 - RMSPE(true,pred FedAVG):  0.7177589350088651
+Communication Round 62/100
+FedAVG (server) round62 - RMSPE(true,pred FedAVG):  0.6415091240594201
+Communication Round 63/100
+FedAVG (server) round63 - RMSPE(true,pred FedAVG):  0.9699983550939164
+Communication Round 64/100
+FedAVG (server) round64 - RMSPE(true,pred FedAVG):  0.7847426019663662
+Communication Round 65/100
+FedAVG (server) round65 - RMSPE(true,pred FedAVG):  0.6377193756774385
+Communication Round 66/100
+FedAVG (server) round66 - RMSPE(true,pred FedAVG):  0.709858174672781
+Communication Round 67/100
+FedAVG (server) round67 - RMSPE(true,pred FedAVG):  0.6490235379890541
+Communication Round 68/100
+FedAVG (server) round68 - RMSPE(true,pred FedAVG):  0.7456810233881571
+Communication Round 69/100
+FedAVG (server) round69 - RMSPE(true,pred FedAVG):  1.1614971507195155
+Communication Round 70/100
+FedAVG (server) round70 - RMSPE(true,pred FedAVG):  0.8030705005759052
+Communication Round 71/100
+FedAVG (server) round71 - RMSPE(true,pred FedAVG):  0.6753025436933652
+Communication Round 72/100
+FedAVG (server) round72 - RMSPE(true,pred FedAVG):  0.7484390541236554
+Communication Round 73/100
+FedAVG (server) round73 - RMSPE(true,pred FedAVG):  0.6849273722557326
+Communication Round 74/100
+FedAVG (server) round74 - RMSPE(true,pred FedAVG):  0.7459779466220917
+Communication Round 75/100
+FedAVG (server) round75 - RMSPE(true,pred FedAVG):  0.6456003475212704
+Communication Round 76/100
+FedAVG (server) round76 - RMSPE(true,pred FedAVG):  0.647883572837516
+Communication Round 77/100
+FedAVG (server) round77 - RMSPE(true,pred FedAVG):  1.3349068326406985
+Communication Round 78/100
+FedAVG (server) round78 - RMSPE(true,pred FedAVG):  0.7796300395414885
+Communication Round 79/100
+FedAVG (server) round79 - RMSPE(true,pred FedAVG):  0.6958948171644032
+Communication Round 80/100
+FedAVG (server) round80 - RMSPE(true,pred FedAVG):  0.6278951508888215
+Communication Round 81/100
+FedAVG (server) round81 - RMSPE(true,pred FedAVG):  0.9596182810162234
+Communication Round 82/100
+FedAVG (server) round82 - RMSPE(true,pred FedAVG):  0.6417811216073103
+Communication Round 83/100
+FedAVG (server) round83 - RMSPE(true,pred FedAVG):  0.9728380832381691
+Communication Round 84/100
+FedAVG (server) round84 - RMSPE(true,pred FedAVG):  0.62556899470512
+Communication Round 85/100
+FedAVG (server) round85 - RMSPE(true,pred FedAVG):  0.8056124556904883
+Communication Round 86/100
+FedAVG (server) round86 - RMSPE(true,pred FedAVG):  0.6876354314730959
+Communication Round 87/100
+FedAVG (server) round87 - RMSPE(true,pred FedAVG):  0.6920814616896518
+Communication Round 88/100
+FedAVG (server) round88 - RMSPE(true,pred FedAVG):  1.0285544685494048
+Communication Round 89/100
+FedAVG (server) round89 - RMSPE(true,pred FedAVG):  0.9128621221243357
+Communication Round 90/100
+FedAVG (server) round90 - RMSPE(true,pred FedAVG):  1.0765334652203966
+Communication Round 91/100
+FedAVG (server) round91 - RMSPE(true,pred FedAVG):  0.8993027929348252
+Communication Round 92/100
+FedAVG (server) round92 - RMSPE(true,pred FedAVG):  0.8614625423587334
+Communication Round 93/100
+FedAVG (server) round93 - RMSPE(true,pred FedAVG):  0.7898985720470838
+Communication Round 94/100
+FedAVG (server) round94 - RMSPE(true,pred FedAVG):  0.8004627655924135
+Communication Round 95/100
+FedAVG (server) round95 - RMSPE(true,pred FedAVG):  0.7272645442795445
+Communication Round 96/100
+FedAVG (server) round96 - RMSPE(true,pred FedAVG):  0.8619074696705283
+Communication Round 97/100
+FedAVG (server) round97 - RMSPE(true,pred FedAVG):  0.7097832192143603
+Communication Round 98/100
+FedAVG (server) round98 - RMSPE(true,pred FedAVG):  0.6942525806365092
+Communication Round 99/100
+FedAVG (server) round99 - RMSPE(true,pred FedAVG):  0.8975892019337859
+Communication Round 100/100
+FedAVG (server) round100 - RMSPE(true,pred FedAVG):  0.7086004439099776

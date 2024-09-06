@@ -8,10 +8,15 @@ Despite advancements in FL, uncertainty quantification (UQ) on the client side r
 
 ![Feature Demonstration](https://github.com/cristovaoiglesias/2S/blob/main/exp_with_truncation_full.gif)
 
+[GIF](https://github.com/cristovaoiglesias/2S/blob/main/exp_with_truncation_full.gif)
+
 Figure 1. 2S approach (**with truncation filter**) applied to the regression problem of paper.
 
 
 ![Feature Demonstration](https://github.com/cristovaoiglesias/2S/blob/main/exp_without_truncation_full.gif)
+
+[GIF](https://github.com/cristovaoiglesias/2S/blob/main/exp_without_truncation_full.gif)
+
 
 Figure 1. 2S approach (**without truncation filter**) applied to the regression problem of paper.
 
